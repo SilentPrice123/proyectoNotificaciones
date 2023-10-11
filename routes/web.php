@@ -26,7 +26,7 @@ Route::get('otras-opciones', function () {
 // });
 
 Route::get('opcion/create', function () {
-    return "en esta opcion podras hacer cambios";
+    return "nueva ruta de prueba";
 });
 
 Route::get('cursos/{curso}/{categoria?}', function ($curso,$categoria = null) {
