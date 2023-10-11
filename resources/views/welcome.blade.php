@@ -14,7 +14,7 @@
             julian
         </td>
         <td>
-            terrible
+            primer cambio hecho desde otra pc
         </td>
     </table>
 </body>
