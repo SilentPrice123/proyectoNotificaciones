@@ -19,4 +19,5 @@ class cursoController extends Controller
     public function show($valor){
         return "Bienvenido a la opcion: $valor";
     }
+
 }
